@@ -52,5 +52,11 @@ namespace LibraryManagementSystem.Forms
             frm_AddStaff f = new frm_AddStaff();
             f.ShowDialog();
         }
+
+        private void designationsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frm_Designations f = new frm_Designations();
+            f.ShowDialog();
+        }
     }
 }

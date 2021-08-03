@@ -79,3 +79,4 @@ E:\#1 CodingArea\C#_MiniProject\LibraryManagementSystem\LibraryManagementSystem\
 E:\#1 CodingArea\C#_MiniProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.ConfigurationForms.frm_Programme.resources
 E:\#1 CodingArea\C#_MiniProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.ConfigurationForms.frm_Department.resources
 E:\#1 CodingArea\C#_MiniProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.StaffForms.frm_AddStaff.resources
+E:\#1 CodingArea\C#_MiniProject\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Forms.ConfigurationForms.frm_Designations.resources

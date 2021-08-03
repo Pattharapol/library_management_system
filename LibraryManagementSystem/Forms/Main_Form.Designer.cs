@@ -123,27 +123,27 @@ namespace LibraryManagementSystem.Forms
             // departmentToolStripMenuItem
             // 
             this.departmentToolStripMenuItem.Name = "departmentToolStripMenuItem";
-            this.departmentToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.departmentToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.departmentToolStripMenuItem.Text = "Department";
             this.departmentToolStripMenuItem.Click += new System.EventHandler(this.departmentToolStripMenuItem_Click);
             // 
             // userToolStripMenuItem
             // 
             this.userToolStripMenuItem.Name = "userToolStripMenuItem";
-            this.userToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.userToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.userToolStripMenuItem.Text = "User";
             // 
             // tsmSession
             // 
             this.tsmSession.Name = "tsmSession";
-            this.tsmSession.Size = new System.Drawing.Size(180, 22);
+            this.tsmSession.Size = new System.Drawing.Size(142, 22);
             this.tsmSession.Text = "Session";
             this.tsmSession.Click += new System.EventHandler(this.tsmSession_Click);
             // 
             // tsmProgramme
             // 
             this.tsmProgramme.Name = "tsmProgramme";
-            this.tsmProgramme.Size = new System.Drawing.Size(180, 22);
+            this.tsmProgramme.Size = new System.Drawing.Size(142, 22);
             this.tsmProgramme.Text = "Programme";
             this.tsmProgramme.Click += new System.EventHandler(this.tsmProgramme_Click);
             // 
@@ -152,6 +152,7 @@ namespace LibraryManagementSystem.Forms
             this.designationsToolStripMenuItem.Name = "designationsToolStripMenuItem";
             this.designationsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.designationsToolStripMenuItem.Text = "Designations";
+            this.designationsToolStripMenuItem.Click += new System.EventHandler(this.designationsToolStripMenuItem_Click);
             // 
             // staffToolStripMenuItem
             // 
